@@ -1,0 +1,156 @@
+{
+    "values":[
+       {
+          "_id":1,
+          "semester_id":1,
+          "name":"Introduction to Programming",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":2,
+          "semester_id":2,
+          "name":"Object Oriented Programming",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":3,
+          "semester_id":3,
+          "name":"Relational Databases",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":4,
+          "semester_id":3,
+          "name":"Data Structures",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":5,
+          "semester_id":3,
+          "name":"Algorithms and Analysis",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":6,
+          "semester_id":4,
+          "name":"Operating Systems",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":7,
+          "semester_id":5,
+          "name":"Electronics",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":8,
+          "semester_id":6,
+          "name":"Digital Logic Design",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":9,
+          "semester_id":7,
+          "name":"Web Programming",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":10,
+          "semester_id":8,
+          "name":"Machine Learning",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+          "_id":11,
+          "semester_id":8,
+          "name":"Cloud Computing",
+          "enrolled_students":[
+             
+          ]
+       },
+       {
+        "_id":12,
+        "semester_id":2,
+        "name":"Calculus 1",
+        "enrolled_students":[
+           
+        ]
+        },
+        {
+        "_id":13,
+        "semester_id":3,
+        "name":"Calculus 2",
+        "enrolled_students":[
+            
+        ]
+        },
+        {
+        "_id":14,
+        "semester_id":3,
+        "name":"Ordinary Differential Equations",
+        "enrolled_students":[
+            
+        ]
+        },
+        {
+        "_id":15,
+        "semester_id":4,
+        "name":"Linear Algebra",
+        "enrolled_students":[
+            
+        ]
+        },
+        {
+        "_id":16,
+        "semester_id":7,
+        "name":"French",
+        "enrolled_students":[
+            
+        ]
+        },
+        {
+        "_id":17,
+        "semester_id":3,
+        "name":"Assembly Language Programming",
+        "enrolled_students":[
+            
+        ]
+        },
+        {
+        "_id":18,
+        "semester_id":4,
+        "name":"Software Engineering 1",
+        "enrolled_students":[
+            
+        ]
+        },
+        {
+        "_id":19,
+        "semester_id":5,
+        "name":"Software Engineering 2",
+        "enrolled_students":[
+            
+        ]
+        }
+    ]
+ }
